@@ -1,0 +1,46 @@
+enable: true
+title: Hepatitis B BY NUMBERS
+subtitle: Prevalence Estimates By Region
+bgmImage: img/slider-bg.jpg
+paragraph: >
+  
+
+numbers:
+  - icon: ion-ios-people
+    counter: 2,000,000,000
+    name: individuals	
+    text: past and present infection
+  - icon: ion-clipboard 
+    counter: 30,000,000 
+    name: individuals	
+    text: newly infected each year
+  - icon: ion-erlenmeyer-flask-bubbles 
+    counter: 250,000,000
+    name: individuals	
+    text: chronically infected
+  - icon: ion-medkit
+    counter: 900,000
+    name: individuals	
+    text: annual mortality from hepatitis B and related complications
+
+people:
+  - text: >
+      This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd.
+    image: img/item-img1.jpg
+    name: Rose Ray
+    role: CEO-Themefisher
+  - text: >
+      This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd.
+    image: img/item-img1.jpg
+    name: Rose Ray
+    role: CEO-Themefisher
+  - text: >
+      This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd.
+    image: img/item-img1.jpg
+    name: Rose Ray
+    role: CEO-Themefisher
+  - text: >
+      This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd.
+    image: img/item-img1.jpg
+    name: Rose Ray
+    role: CEO-Themefisher
