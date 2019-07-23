@@ -109,7 +109,12 @@ max-height: 300px;
 .home-cont-center p{color:#333333 !important;}
 .footer-manu + p{font-size: 14px !important;}
 .row-class .col-md-2 {width: 20%; float:left;}
-
+p.science-subhead {
+    color: #2b8caa;
+    font-size: 19px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
 @media only screen and (max-width: 1020px){
 	p{font-size: 16px !important;line-height: 26px !important;font-family: 'maison_neuelight', sans-serif;}
 	.footer-manu + p{font-size: 14px !important;}
