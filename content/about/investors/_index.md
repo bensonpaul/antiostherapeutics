@@ -17,8 +17,8 @@ layout  = "investers"
 ![Delos Capital](/img/Investors/delos-capital.jpg)
 
 
-![Quantum Vista Capital](/img/Investors/quantum-vista-capital.jpg) 
-
+![Quantum Vista Capital](/img/Investors/quantum-vista-capital.jpg)
+ 
 
 ![fonds](/img/Investors/fonds.jpg)
 
