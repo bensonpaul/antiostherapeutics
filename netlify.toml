@@ -9,7 +9,12 @@
 
   [[redirects]]
   from = "/about"
-  to = "/science"
+  to = "/science/"
+  status = 301
+  force = false
+
+  from = "/news"
+  to = "/contact"
   status = 301
   force = false
   
